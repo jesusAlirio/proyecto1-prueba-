@@ -1,2 +1,2 @@
-# proyecto1-prueba-
+# programa-git
 aprendiendo a usaar git y git hud 
